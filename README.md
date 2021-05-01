@@ -4,3 +4,4 @@
 #### [lab1 - curse of dimensionality](lab1)
 #### [lab2 - k-nearest neighbours](lab2)
 #### [lab3 - PCA](lab3)
+#### [lab4 - K-means](lab4)
