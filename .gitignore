@@ -3,3 +3,4 @@
 lab3/images/original_dataset
 *.idea
 *__pycache__
+*venv

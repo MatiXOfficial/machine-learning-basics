@@ -5,3 +5,4 @@
 #### [lab2 - k-nearest neighbours](lab2)
 #### [lab3 - PCA](lab3)
 #### [lab4 - K-means](lab4)
+#### [lab5 - Reinforcement learning (Sarsa, Q-learning)](lab5)
