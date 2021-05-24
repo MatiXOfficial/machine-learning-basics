@@ -6,3 +6,4 @@
 #### [lab3 - PCA](lab3)
 #### [lab4 - K-means](lab4)
 #### [lab5 - Reinforcement learning (Sarsa, Q-learning)](lab5)
+#### [lab6 - Diagnostics + RandomForest](lab5)
